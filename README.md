@@ -107,7 +107,7 @@ repeat this step for the three locations (mcd, popeyes, starbucks)
 
 Step 4. **Run main.py** Run the python script and follow the instructions 
 
-[img](https://github.com/bear102/osml/blob/main/img/Screenshot%202023-07-09%20175603.png)
+![running main.py](https://github.com/bear102/osml/blob/main/img/Screenshot%202023-07-09%20175603.png)
 
 <br>
 
