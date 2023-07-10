@@ -46,12 +46,12 @@ Ok lets say someone were to post this photo on social media. We can easily make 
 
 <img src="https://github.com/bear102/osml/blob/main/img/Screenshot%202023-07-09%20173920.png" alt="Mcdonalds, Wendys, and Starbucks"></img>
 
-
+<br>
 Step 1. **Get approximate distance** 
 These 3 stores are no more than .2 kilometers apart from eachother
-
+<br>
 ***
-
+<br>
 Step 2. **Initial guess**
 
   We need two coordinates of a rectangle that   we want the program to search in. If you already have a general idea of where the location is you can use that. If you   do not you can use the entire world or an entire country.
@@ -60,17 +60,18 @@ Step 2. **Initial guess**
   I need the South-West corner and the North-East corner's lat and lon
   
   SW: 26.292681, -106.582503
+  
   NE: 36.508981, -93.003398
-
+<br>
 ***
-
+<br>
 Step 3. **Finding descriptors** 
 
 For this step, go to `openstreetmap.org`
 
 in the search bar, type in *popeyes*. Find any popeyes and click on it. This will bring up a table of information labled `Tags`
 
-?imageHere
+<img src="https://github.com/bear102/osml/blob/main/img/Screenshot%202023-07-09%20174925.png" alt="Descriptors of Popeyes"></img>
 
 Choose a few tags that may be relevant to popeyes, some strong ones include:
 1. brand
