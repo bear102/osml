@@ -46,11 +46,14 @@ Ok lets say someone were to post this photo on social media. We can easily make 
 
 <img src="https://github.com/bear102/osml/blob/main/img/Screenshot%202023-07-09%20173920.png" alt="Mcdonalds, Wendys, and Starbucks"></img>
 
-Step 1. **Get approximate distance** These 3 stores are no more than .2 kilometers apart from eachother
+
+Step 1. **Get approximate distance** 
+  These 3 stores are no more than .2 kilometers apart from eachother
 
 
 
-Step 2. **Initial guess** We need two coordinates of a rectangle that   we want the program to search in. If you already have a general idea of where the location is you can use that. If you do not you can use the entire world or an entire country.
+Step 2. **Initial guess**
+  We need two coordinates of a rectangle that   we want the program to search in. If you already have a general idea of where the location is you can use that. If you do not you can use the entire world or an entire country.
 
     I Know my location is somewhere in Texas
     I need the South-West corner and the North-East corner's lat and lon
