@@ -45,9 +45,7 @@ Example Scenario:
 
 Ok lets say someone were to post this photo on social media. We can easily make out a mcdonalds, starbucks, and popeyes close together.
 
-<div style="max-width: 100%;">
-<img src="https://github.com/bear102/osml/blob/main/img/Screenshot%202023-07-09%20173920.png" style="max-width:100%" alt="Mcdonalds, Wendys, and Starbucks"></img>
-</div>
+<img src="https://github.com/bear102/osml/blob/main/img/Screenshot%202023-07-09%20173920.png"  alt="Mcdonalds, Wendys, and Starbucks"></img>
 <br>
 
 
@@ -84,10 +82,9 @@ For this step, go to `openstreetmap.org`
 
 in the search bar, type in *popeyes*. Find any popeyes and click on it. This will bring up a table of information labled `Tags`
 
-<div style="max-width: 100%;">
 
-<img src="https://github.com/bear102/osml/blob/main/img/Screenshot%202023-07-09%20174925.png" style="max-width:100%" alt="Descriptors"></img>
-</div>
+<img src="https://github.com/bear102/osml/blob/main/img/Screenshot%202023-07-09%20174925.png" alt="Descriptors"></img>
+
 
 Choose a few tags that may be relevant to popeyes, some strong ones include:
 1. brand
@@ -113,7 +110,9 @@ repeat this step for the three locations (mcd, popeyes, starbucks)
 
 Step 4. **Run main.py** Run the python script and follow the instructions 
 
-<img src="https://github.com/bear102/osml/blob/main/img/Screenshot%202023-07-09%20175603.png" alt="Running code" style="max-width:60px"></img>
+<p style="max-width:40px"><img src="https://github.com/bear102/osml/blob/main/img/Screenshot%202023-07-09%20175603.png" alt="Running code" style="max-width:60px"></img>
+</p>
+
 <br>
 
 ***
