@@ -119,7 +119,7 @@ Step 5. **interpret output** If you see green and results found, that means it f
 
 You can open map.html by double clicking the file and view the locations on a map
 
-**If you see no results found**, that may mean these locations mcdonalds, popeyes, and starbucks, are missing on openstreetmap.
+**If you see no results found**, that may mean these locations mcdonalds, popeyes, and starbucks, are missing on openstreetmap or you may need to increase your distance threshold.
 
 <br>
 
@@ -136,11 +136,11 @@ The area highlighted in green is the area that the code searched in.
 Now look through all the points to see if the mcdonalds, wendys, and starbucks are positioned correctly
 
 Tips:
-1. look at the roads or how the buildings are aligned
+1. look at how the the roads and buildings are aligned
 
 2. if you find a potential location, click the pin icon in your upper left corner, drop a pin on the location, and click on the pin. This will show the coordinates and you can put that into google maps street view.
 
-3. to mark already visited locations, use a pin
+3. to mark already inspected locations, use a pin
    
 
 <img src="https://github.com/bear102/osml/blob/main/img/Screenshot%202023-07-09%20213823.png" alt="Results"></img>
