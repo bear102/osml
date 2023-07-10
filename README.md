@@ -1,7 +1,8 @@
+<div style="">
 <img src="https://github.com/bear102/osml/blob/main/img/osml.png"></img>
 
 Open Street Map data mining project. 
-
+</div>
 # Table of Contents
 - [OSML](#osml)
 - [Table of Contents](#table-of-contents)
