@@ -3,6 +3,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/bear102/tennis"><img src="https://img.shields.io/badge/GitHub-bear102-%2312100E.svg?style=flat&logo=github" alt="GitHub"></a>
+  <img src="https://img.shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9-blue" alt="Python">
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"></a>
+</p>
+
+<p align="center">
   Open Street Map data mining project. 
 </p>
 
@@ -19,7 +25,7 @@ Open Street Map Locator (OSML) was designed to find the coordinates of where a p
 # Installation and Setup
 
 
-1. Make sure you have python >=3 installed
+1. Make sure you have python >=3.7 installed
 
 2. Download the files in this repository
 
