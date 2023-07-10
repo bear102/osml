@@ -1,4 +1,6 @@
-<div style="">
+<div style="display: flex;
+    align-items: center;
+    flex-direction: column;">
 <img src="https://github.com/bear102/osml/blob/main/img/osml.png"></img>
 
 Open Street Map data mining project. 
