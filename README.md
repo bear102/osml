@@ -107,7 +107,7 @@ repeat this step for the three locations (mcd, popeyes, starbucks)
 
 Step 4. **Run main.py** Run the python script and follow the instructions 
 
-<img style = "width="200" height="auto"src="https://github.com/bear102/osml/blob/main/img/Screenshot%202023-07-09%20173920.png" alt="Mcdonalds, Wendys, and Starbucks"></img>
+<img src="https://github.com/bear102/osml/blob/main/img/Screenshot%202023-07-09%20173920.png" alt="Mcdonalds, Wendys, and Starbucks" style="width="200" height="auto"></img>
 
 <br>
 
