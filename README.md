@@ -48,12 +48,12 @@ Ok lets say someone were to post this photo on social media. We can easily make 
 
 
 Step 1. **Get approximate distance** 
-```
-  These 3 stores are no more than .2 kilometers apart from eachother
-```
+These 3 stores are no more than .2 kilometers apart from eachother
+
+***
 
 Step 2. **Initial guess**
-```
+
   We need two coordinates of a rectangle that   we want the program to search in. If you already have a general idea of where the location is you can use that. If you   do not you can use the entire world or an entire country.
   
   I Know my location is somewhere in Texas
@@ -61,17 +61,17 @@ Step 2. **Initial guess**
   
   SW: 26.292681, -106.582503
   NE: 36.508981, -93.003398
-```
 
+***
 
 Step 3. **Finding descriptors** 
-```
+
 For this step, go to `openstreetmap.org`
 
 in the search bar, type in *popeyes*. Find any popeyes and click on it. This will bring up a table of information labled `Tags`
-```
+
 ?imageHere
-```
+
 Choose a few tags that may be relevant to popeyes, some strong ones include:
 1. brand
 2. brand:wikidata
@@ -87,7 +87,8 @@ repeat this step for the three locations (mcd, popeyes, starbucks)
     Starbucks - brand:wikidata = Q37158
     Popeyes - brand:wikidata = Q1330910
 
-```
+***
+
 Step 4. **Run main.py** Run the python script and follow the instructions ?imageHere
 
 
