@@ -3,13 +3,7 @@
 
 Open Street Map data mining project. 
 </div>
-# Table of Contents
-- [OSML](#osml)
-- [Table of Contents](#table-of-contents)
-- [Overview](#overview)
-- [Installation and Setup](#installation-and-setup)
-- [Usage](#usage)
-- [License](#license)
+
 
 
 
