@@ -44,9 +44,10 @@ pip install folium
 Example Scenario:
 
 Ok lets say someone were to post this photo on social media. We can easily make out a mcdonalds, starbucks, and popeyes close together.
+<div style="max-width: 100%;">
 
-<img src="https://github.com/bear102/osml/blob/main/img/Screenshot%202023-07-09%20173920.png" alt="Mcdonalds, Wendys, and Starbucks"></img>
-
+<img src="https://github.com/bear102/osml/blob/main/img/Screenshot%202023-07-09%20173920.png" style="max-width:100%" alt="Mcdonalds, Wendys, and Starbucks"></img>
+</div>
 <br>
 
 
