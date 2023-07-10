@@ -110,12 +110,21 @@ Step 4. **Run main.py** Run the python script and follow the instructions ?image
 
 <br>
 
+***
+
+<br>
+
 Step 5. **interpret output** If you see green and results found, that means it found potential locations. 
 
 You can open map.html by double clicking the file and view the locations on a map
 
 **If you see no results found**, that may mean these locations mcdonalds, popeyes, and starbucks, are missing on openstreetmap.
 
+<br>
+
+***
+
+<br>
 
 Step 6. **Reading Map** The results are saved to a file named confirmed.json. the files named coords<#>.txt are the coordinates found for individual locations (Mcd, popeyes, starbucks)
 
@@ -133,7 +142,7 @@ Tips:
 3. to mark already visited locations, use a pin
    
 
-?imageHere
+<img src="https://github.com/bear102/osml/blob/main/img/Screenshot%202023-07-09%20213823.png" alt="Results"></img>
 
 
 
@@ -141,3 +150,5 @@ Tips:
 # License
 
 MIT
+
+https://github.com/bear102/osml/blob/main/LICENSE
