@@ -44,8 +44,8 @@ pip install folium
 Example Scenario:
 
 Ok lets say someone were to post this photo on social media. We can easily make out a mcdonalds, starbucks, and popeyes close together.
-<div style="max-width: 100%;">
 
+<div style="max-width: 100%;">
 <img src="https://github.com/bear102/osml/blob/main/img/Screenshot%202023-07-09%20173920.png" style="max-width:100%" alt="Mcdonalds, Wendys, and Starbucks"></img>
 </div>
 <br>
@@ -84,7 +84,10 @@ For this step, go to `openstreetmap.org`
 
 in the search bar, type in *popeyes*. Find any popeyes and click on it. This will bring up a table of information labled `Tags`
 
-<img src="https://github.com/bear102/osml/blob/main/img/Screenshot%202023-07-09%20174925.png" alt="Descriptors" height='800'></img>
+<div style="max-width: 100%;">
+
+<img src="https://github.com/bear102/osml/blob/main/img/Screenshot%202023-07-09%20174925.png" style="max-width:100%" alt="Descriptors" height='800'></img>
+</div>
 
 Choose a few tags that may be relevant to popeyes, some strong ones include:
 1. brand
