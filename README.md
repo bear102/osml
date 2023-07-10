@@ -82,6 +82,7 @@ For this step, go to `openstreetmap.org`
 
 in the search bar, type in *popeyes*. Find any popeyes and click on it. This will bring up a table of information labled `Tags`
 
+<img src="https://github.com/bear102/osml/blob/main/img/Screenshot%202023-07-09%20174925.png" alt="Descriptors" height='800'></img>
 
 Choose a few tags that may be relevant to popeyes, some strong ones include:
 1. brand
@@ -107,7 +108,7 @@ repeat this step for the three locations (mcd, popeyes, starbucks)
 
 Step 4. **Run main.py** Run the python script and follow the instructions 
 
-<img src="https://github.com/bear102/osml/blob/main/img/Screenshot%202023-07-09%20175603.png" alt="Mcdonalds, Wendys, and Starbucks" height='800'></img>
+<img src="https://github.com/bear102/osml/blob/main/img/Screenshot%202023-07-09%20175603.png" alt="Running code" height='800'></img>
 <br>
 
 ***
