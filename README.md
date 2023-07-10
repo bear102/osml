@@ -15,12 +15,13 @@
 
 
 
-
+<br><br>
 
 # Overview
 
 Open Street Map Locator (OSML) was designed to find the coordinates of where a picture or video was taken by analyzing the surroundings. For example, if there are a CVS, McDonald's, and Walmart in close proximity, OSML can narrow down the possible locations to just a few.
 
+<br><br>
 
 # Installation and Setup
 
@@ -36,7 +37,7 @@ pip install xmltodict
 pip install folium
 ```
 
-
+<br><br>
 
 # Usage
 
