@@ -47,7 +47,7 @@ Ok lets say someone were to post this photo on social media. We can easily make 
 <img src="https://github.com/bear102/osml/blob/main/img/Screenshot%202023-07-09%20173920.png" alt="Mcdonalds, Wendys, and Starbucks"></img>
 
 <br>
-Step 1. **Get approximate distance** 
+Step 1. ** Get approximate distance ** 
 
 These 3 stores are no more than .2 kilometers apart from eachother
 <br>
