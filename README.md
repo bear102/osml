@@ -48,6 +48,11 @@ Ok lets say someone were to post this photo on social media. We can easily make 
 
 <br>
 
+***
+
+<br>
+
+
 Step 1. **Get approximate distance** 
 
 These 3 stores are no more than .2 kilometers apart from eachother
