@@ -1,7 +1,10 @@
 <p align="center">
   <img src="https://github.com/bear102/osml/blob/main/img/osml.png" alt="OSML Logo">
+
+  Open Street Map data mining project. 
+
 </p>
-Open Street Map data mining project. 
+
 
 
 
