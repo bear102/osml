@@ -48,7 +48,6 @@ Ok lets say someone were to post this photo on social media. We can easily make 
 
 <br>
 
-***
 
 <br>
 
