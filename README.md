@@ -88,9 +88,10 @@ Choose a few tags that may be relevant to popeyes, some strong ones include:
 1. brand
 2. brand:wikidata
 3. name
+   
 (if you are trying to locate based on other features like a water tower or a bridge, choose the tags relevant to that feature)
 
-The left column will be your `key` and the right column will be your `value`
+The left column will be your `key` and the right column will be your `value`, you will need to remember this for later
 
 repeat this step for the three locations (mcd, popeyes, starbucks)
 
