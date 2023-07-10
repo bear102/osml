@@ -86,7 +86,7 @@ in the search bar, type in *popeyes*. Find any popeyes and click on it. This wil
 
 <div style="max-width: 100%;">
 
-<img src="https://github.com/bear102/osml/blob/main/img/Screenshot%202023-07-09%20174925.png" style="max-width:100%" alt="Descriptors" height='800'></img>
+<img src="https://github.com/bear102/osml/blob/main/img/Screenshot%202023-07-09%20174925.png" style="max-width:100%" alt="Descriptors"></img>
 </div>
 
 Choose a few tags that may be relevant to popeyes, some strong ones include:
